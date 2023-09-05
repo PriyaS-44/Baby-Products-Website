@@ -1,2 +1,3 @@
-# Baby-Products-Website
-This project was completed as a part of Academic Major project. The project is part of Full Stack Development. The tools used are Front End -HTML, CSS, JavaScript whereas the backend Tools are PHP and MySQL. This is a e-commerce website of Baby Products. 
+# Baby-Products-Website 👶🍼
+"Baby Products Website" is a full stack development, completed as part of my academic major Project. It is an e-commerce website for baby products built using front-end and back-end tools. The Front End Tools include HTML, CSS, and JavaScript whereas the back-end tools include PHP and MySQL.
+It consists of two panels - Admin and User. The admin can perform the CRUD operations. He can also keep track of the products added, reviews sent, users registered, and total pending and completed payments. On the other hand, the user can shop the products, send reviews, add the products to the cart and wishlist, and  proceed with the payment.
